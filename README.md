@@ -1,4 +1,4 @@
-<h3 align="center">A passionate programmer and fronted developer from Mexico</h3>
+<h3 align="center">A passionate programmer and frontend developer from Mexico</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
